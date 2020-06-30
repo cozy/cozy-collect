@@ -81,7 +81,7 @@
     "react-test-renderer": "16.13.1",
     "stylint": "2.0.0",
     "stylus": "0.54.7",
-    "url-search-params-polyfill": "5.1.0"
+    "url-search-params-polyfill": "8.1.0"
   },
   "lint-staged": {
     "{src,test}/**/*.{js,jsx}": [
