@@ -75,7 +75,7 @@
     "react-dom": "16.13.1",
     "react-test-renderer": "16.13.1",
     "stylint": "2.0.0",
-    "stylus": "0.54.7",
+    "stylus": "0.54.8",
     "url-search-params-polyfill": "5.1.0"
   },
   "lint-staged": {
